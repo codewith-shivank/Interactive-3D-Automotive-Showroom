@@ -1,0 +1,6 @@
+{
+  "name": "AURELIS MOTORS - 3D Showroom",
+  "description": "Interactive 3D digital showroom for the Aurelis X1 electric performance vehicle with real-time configurator, cinematic storytelling, and precision technical specs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
